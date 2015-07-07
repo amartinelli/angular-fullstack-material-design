@@ -52,8 +52,6 @@ angular.module('angularFullstackMaterialDesignApp').controller('RootnavCtrl', ['
                 $mdSidenav('left').toggle();
             });
         };
-
-        console.log("XXXXXXX")
         $location.path('/' + $scope.menu[0].link);
 
     }]);

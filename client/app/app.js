@@ -9,9 +9,6 @@ angular.module('angularFullstackMaterialDesignApp', [
     'ngMaterial'
 ])
     .config(function ( $locationProvider, $routeProvider, $mdThemingProvider, $mdIconProvider) {
-
-
-        console.log("AAAAAAAAAAAA")
         $routeProvider
             .otherwise({
                 redirectTo: firstTabLink
