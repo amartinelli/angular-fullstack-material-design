@@ -8,3 +8,14 @@
 
 #### Based on the come example that can be found at 
 - https://github.com/angular/material-start
+
+
+ 
+![alt text](http://i.imgur.com/xSyzYzl.png "Desktop")
+
+
+
+
+
+
+![alt text](http://i.imgur.com/2ErwnzN.png "Mobile")
